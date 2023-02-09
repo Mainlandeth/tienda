@@ -1,6 +1,6 @@
 {
-  "name": "midufest.com",
-  "description": "Página web de la conferencia miduFest 2023",
+  "name": "Tienda",
+  "description": "ProductosDeBelleza",
   "type": "module",
   "version": "0.0.1",
   "private": true,
